@@ -1,0 +1,31 @@
+transaction_id,customer_id,amount,transaction_type,location,payment_method,transaction_date
+T001,C101,2500,Purchase,Mumbai,Card,2026-09-01 10:15
+T002,C102,1200,Purchase,Pune,UPI,2026-09-01 10:30
+T003,C103,8500,Purchase,Mumbai,Card,2026-09-01 11:00
+T004,C101,450,Purchase,Navi Mumbai,UPI,2026-09-01 11:20
+T005,C104,15000,Transfer,Delhi,Bank Transfer,2026-09-01 12:10
+T006,C105,700,Purchase,Pune,UPI,2026-09-01 12:30
+T007,C106,2300,Purchase,Mumbai,Card,2026-09-01 13:00
+T008,C107,55000,Transfer,Delhi,Bank Transfer,2026-09-01 13:20
+T009,C108,900,Purchase,Nashik,UPI,2026-09-01 14:00
+T010,C109,3200,Purchase,Mumbai,Card,2026-09-01 14:15
+T011,C110,78000,Transfer,Delhi,Bank Transfer,2026-09-01 14:30
+T012,C101,600,Purchase,Navi Mumbai,UPI,2026-09-01 15:00
+T013,C102,1100,Purchase,Pune,UPI,2026-09-01 15:20
+T014,C103,42000,Transfer,Mumbai,Card,2026-09-01 16:00
+T015,C104,950,Purchase,Delhi,UPI,2026-09-01 16:15
+T016,C105,1800,Purchase,Pune,Card,2026-09-01 16:30
+T017,C106,67000,Transfer,Mumbai,Bank Transfer,2026-09-01 17:00
+T018,C107,1300,Purchase,Nashik,UPI,2026-09-01 17:15
+T019,C108,25000,Transfer,Delhi,Card,2026-09-01 18:00
+T020,C109,750,Purchase,Mumbai,UPI,2026-09-01 18:20
+T021,C110,92000,Transfer,Delhi,Bank Transfer,2026-09-01 18:40
+T022,C101,500,Purchase,Navi Mumbai,UPI,2026-09-01 19:00
+T023,C102,2400,Purchase,Pune,Card,2026-09-01 19:15
+T024,C103,3500,Purchase,Mumbai,UPI,2026-09-01 19:30
+T025,C104,48000,Transfer,Delhi,Bank Transfer,2026-09-01 20:00
+T026,C105,850,Purchase,Pune,UPI,2026-09-01 20:15
+T027,C106,1250,Purchase,Mumbai,Card,2026-09-01 20:30
+T028,C107,62000,Transfer,Delhi,Bank Transfer,2026-09-01 21:00
+T029,C108,1450,Purchase,Nashik,UPI,2026-09-01 21:15
+T030,C109,2800,Purchase,Mumbai,Card,2026-09-01 21:30
